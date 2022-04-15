@@ -185,7 +185,7 @@ img{
    color: var(--color-text) ;
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 475px) {
    .contents-in-container{
       display: flex;
       justify-content: center;
